@@ -31,8 +31,7 @@ class Tankrame extends JFrame {
                System.exit(0);
            }
        });
-      System.out.println("dadass");
-
+      System.out.println("aaa");
     }
 
 
